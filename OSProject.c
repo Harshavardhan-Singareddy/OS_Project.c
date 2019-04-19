@@ -67,4 +67,3 @@ int main()
 	     printf("The average waiting time is :%d \n",avg_waiting_time);
 	     
 }
-Chat conve
